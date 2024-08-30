@@ -30,5 +30,5 @@ Step 5: again will go to condition is 2 <= 10
 
 //do while loop
 /*
-this loop will execute whenever you jjust want to print the statement for first time and check the loop after this so in simple terms the 1st cout will execute irrespective of while loop and the condition
+this loop will execute whenever you just want to print the statement for first time and check the loop after this so in simple terms the 1st cout will execute irrespective of while loop and the condition
 */
